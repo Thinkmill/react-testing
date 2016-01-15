@@ -1,6 +1,6 @@
 # Testing React.js Applications Examples
 
-These are the examples of a talk I held at the Vienna React.js Meetup and of a blogpost that is going to be published soon about "Testin React.js Applications"!
+These are the examples of a talk I held at the Vienna React.js Meetup (and of a blogpost that is going to be published soon™) about "Testing React.js Applications"!
 
 ## Setup
 
