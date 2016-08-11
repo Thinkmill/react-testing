@@ -11,7 +11,6 @@ This repo showcases how to test various parts of a common React/Redux app using 
 2. `cd react-testing`
 
 3. `npm install`
-4. 
 
 ## Structure
 
