@@ -1,6 +1,8 @@
-# Testing React.js Applications Examples
+# Testing React Applications Examples
 
-These are the examples of a talk I held at the Vienna React.js Meetup (and of a blogpost that is going to be published soon™) about "Testing React.js Applications"!
+This repo showcases how to test various parts of a common React/Redux app using Mocha, `expect` and `enzyme`. You can see a guide using these examples over in the [`react-boilerplate` docs](https://github.com/mxstbr/react-boilerplate/blob/e5eeffb311b82a4a538a4d6e6d7e6a227d3d0ea6/docs/testing/README.md)!
+
+> These are the examples of a talk I held at the Vienna React.js Meetup about "Testing React.js Applications"!
 
 ## Setup
 
@@ -9,6 +11,17 @@ These are the examples of a talk I held at the Vienna React.js Meetup (and of a 
 2. `cd react-testing`
 
 3. `npm install`
+4. 
+
+## Structure
+
+```rb
+
+examples/
+├── add       # Simple example of a unit test
+├── NavBar    # Redux actions and reducer tests
+└── Button    # React component tests
+```
 
 ## Trying the tests
 
